@@ -1,0 +1,12 @@
+.homestay{
+    min-height: 230px;
+    min-width: 320px;
+}
+.homestay-title{
+    text-align: center;
+}
+.homestay-photo{
+    width: 100%;
+    height: 92%;
+    background-size: 100% 100%;
+}
